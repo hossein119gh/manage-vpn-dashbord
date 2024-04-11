@@ -21,7 +21,6 @@ This document provides step-by-step instructions for setting up and using a Dock
 1. Open a web browser.
 2. Enter the IP address of your server followed by port 8090 (e.g., `ipserver:8090`) in the address bar.
 3. Press Enter to navigate to the website.
-4. for example : http://5.75.198.59:8090/
 
 ### Additional Notes:
 - Ensure that Docker is installed on your system before following these steps.
